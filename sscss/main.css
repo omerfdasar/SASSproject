@@ -238,11 +238,17 @@ footer.middle {
   background: #414141;
   padding: 1rem;
   border-bottom: 5px solid #ff652f;
+  
 }
 
 .about .about__job h2,
 .about .about__job h3 {
   margin: 0.5rem 0;
+  
+}
+
+.about .about__job h2 {
+  text-align: right;
 }
 
 .about .about__job h6 {
